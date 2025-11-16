@@ -20,7 +20,7 @@ Then right click > Extract here (the necessary files will be added to the packs 
 
 Then, return to reffect ingame and refresh packs.
 
-Finally, enable / disable whichever interface size and icon set you prefer:
+Finally, enable / disable whichever interface size you prefer:
 
 <img width="269" height="183" alt="image" src="https://github.com/user-attachments/assets/90606e7b-635b-436b-b6ec-32aa070af51a" /> 
 <img width="594" height="231" alt="image" src="https://github.com/user-attachments/assets/8ffd51ce-13b0-4389-9f25-c6420cdeb7ae" />
